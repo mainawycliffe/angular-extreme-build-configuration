@@ -8,11 +8,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 2. Then, install npm dependancies - `yarn install` or `npm install`
 3. And then, build for production, staging and development to see the change in configurations:
 
-   - **Developement Build:** ng build --aot
+   - **Developement Build:** `ng build --aot`
 
-   - **Staging Build:** ng build --confuguraiton=staging
+   - **Staging Build:** `ng build --confuguraiton=staging`
 
-   - **Production Build:** ng build --prod
+   - **Production Build:** `ng build --prod`
 
 ## Further help
 
