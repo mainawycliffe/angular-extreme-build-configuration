@@ -68,7 +68,7 @@
                 }
               ],
               "styles": [
-                "src/styles.scss"
+                "src/styles.staging.scss"
               ],
               "scripts": []
             },
@@ -108,7 +108,7 @@
                 }
               ],
               "styles": [
-                "src/styles.scss"
+                "src/styles.prod.scss"
               ],
               "scripts": []
             }
